@@ -15,7 +15,7 @@ pip install tkinter
 
 Clone repository
 ```bash
-git@github.com:OnesNT/online_chess.git
+git clone git@github.com:OnesNT/online_chess.git
 ```
 Run server:
 ```bash
@@ -45,7 +45,11 @@ After filling anything, you will need to find your opponent, if you enter the co
 
 
 
-https://user-images.githubusercontent.com/113534334/205455903-af8bd345-e6a9-4e48-aedf-2f6cfa974f38.mp4
+
+https://user-images.githubusercontent.com/113534334/205457833-1d9c7963-6829-4180-9dea-880a296e0dc1.mp4
+
+
+
 
 As you see, if A and B play a game online, every move made by A then board B is also updated and vice versa
 
