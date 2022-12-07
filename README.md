@@ -10,7 +10,7 @@ Make sure you have the tkmacosx module and the tkinter module or you can downloa
 
 ```bash
 pip install tkmacosx
-pip install tkinter
+pip install tk
 ```
 
 Clone repository
