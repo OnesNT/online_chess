@@ -23,7 +23,7 @@ cd online_chess
 git checkout dev1
 python3 server.py
 ```
-
+While running server, you need to open new terminal to run game
 Run game:
 ```bash
 cd online_chess
